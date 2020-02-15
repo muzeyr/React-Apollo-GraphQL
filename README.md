@@ -8,3 +8,5 @@ Böylese node.js tarafında yapılan her değişikliği kayıt ettirdikten sonra
 işinizi çok kolaylaştıracaktır,
 
 Özellikle benim gibi Eclipse kökenliyseniz ve bir eliniz sürekli CTRL+S de ise şiddetle tavsite edilir :)
+
+  -nodemon app
